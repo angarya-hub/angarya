@@ -70,7 +70,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Bist100 için geliştirdiğimiz ve kodlarını paylaştıgımız Bot ile konuşabilirsiniz.
+            Bist100 için geliştirdiğimiz ve kodlarını paylaştıgımız Bot&apos;u kullanabilirsiniz.
           </p>
         </a>
 
@@ -111,3 +111,4 @@ export default function Home() {
     </main>
   );
 }
+
