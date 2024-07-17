@@ -53,7 +53,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Kişisel Asistanınızı oluşturmak için tıklayınız.
+            Kişiselleştirilmiş Yapay Zeka ETF Asistanınızı oluşturmak için tıklayınız.
           </p>
         </a>
 
