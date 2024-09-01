@@ -47,13 +47,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Yapay Zeka ETF Asistanı Erken Erişim {" "}
+            Access to Ai ETF Assistant {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Kişiselleştirilmiş Yapay Zeka ETF Asistanınızı oluşturmak için tıklayınız.
+           Approved users can access the application.
           </p>
         </a>
 
@@ -64,13 +64,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Açık Kaynak{" "}
+            Broker Connection{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Bist100 için geliştirdiğimiz ve kodlarını paylaştıgımız Bot&apos;u kullanabilirsiniz.
+            Let's do your Automatic Asset Management in ETF.
           </p>
         </a>
 
@@ -81,13 +81,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Sosyal Medya{" "}
+            Social Media{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Teknoloji ETF içeriklerine erişim.
+            Explore our contents on Economy and Technology ETFs.
           </p>
         </a>
 
@@ -98,13 +98,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Online Bilgilendirme-{" "}
+            Sales-{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Sizin için uygun bir zamana randevu ayarlayın ve online görüşelim.
+            Make an appointment at a time convenient for you and let's meet online.
           </p>
         </a>
       </div>
