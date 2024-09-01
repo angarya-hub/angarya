@@ -70,7 +70,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Let's do your Automatic Asset Management in ETF.
+            Lets do your Automatic Asset Management in ETF.
           </p>
         </a>
 
@@ -104,7 +104,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Make an appointment at a time convenient for you and let's meet online.
+            Make an appointment at a time convenient for you and lets meet online.
           </p>
         </a>
       </div>
