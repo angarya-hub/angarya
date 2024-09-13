@@ -104,7 +104,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Make an appointment at a time convenient for you and lets meet online.
+            Make an appointment at a time convenient for you and lets meet onli
           </p>
         </a>
       </div>
