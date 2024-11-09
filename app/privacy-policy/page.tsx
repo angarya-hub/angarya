@@ -27,8 +27,8 @@ const AcikRizaBeyani: FC = () => {
 
       <h2>Yotta21 BİLİŞİM TEKNOLOJİLERİ A.Ş. (“Liman”) PAZARLAMA & TİCARİ ELEKTRONİK İLETİ İZNİ</h2>
 
-      <p>Vermiş olduğunuz izin aşağıda "Ticari Elektronik İletişim İzni Alınan Şirketler" başlığı altında belirtilen tüm şirketlerin her biri adına ticari elektronik
-        ileti gönderilmesini (Ticari Elektronik İletişim İzni) ve aşağıda "Veri İşleme İzni Alınan Şirketler" başlığı altında belirtilen şirketler adına kişisel
+      <p>Vermiş olduğunuz izin aşağıda &quot;Ticari Elektronik İletişim İzni Alınan Şirketler&quot; başlığı altında belirtilen tüm şirketlerin her biri adına ticari elektronik
+        ileti gönderilmesini (Ticari Elektronik İletişim İzni) ve aşağıda &quot;Veri İşleme İzni Alınan Şirketler&quot; başlığı altında belirtilen şirketler adına kişisel
         verilerinizin işlenip paylaşılmasını (Veri İşleme İzni) kapsamaktadır. İletişim bilgileriniz dışındaki kişisel verilerinizin beyan formunda belirtilen
         amaçlarla kullanılmasını istemiyorsanız, veri işleme izninizi; ticari elektronik ileti almak istemiyorsanız ticari elektronik iletişim izninizi Profil
         sayfasındaki Ayarlar bölümünün içerisideki İletişim Kanalları kısmından yönetebilirsiniz.</p>
@@ -42,4 +42,3 @@ const AcikRizaBeyani: FC = () => {
 };
 
 export default AcikRizaBeyani;
-
