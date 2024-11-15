@@ -15,7 +15,7 @@ const FAQ: FC = () => {
         <li>Portföy Takibi: Yatırımlarınızı izleyin ve kişiselleştirilmiş strateji önerileri alın.</li>
         <li>Uzman Araştırma ve Analiz: Önde gelen analistlerden raporlar ve araştırmalar.</li>
         <li>İçeriden Alım-Satım Verileri: Stratejik kararlar almanızı sağlayan iç veriler.</li>
-        <li>Teknik Ratingler: Hisselerin ve fonların teknik analiz değerlendirmeleri.</li>
+        <li>Teknik Ratingler: Hisselerin ve ETFlerin teknik analiz değerlendirmeleri.</li>
       </ul>
 
       <p><strong>3. Liman Investment Analytics&apos;i nasıl kullanabilirim?</strong></p>
@@ -32,7 +32,7 @@ const FAQ: FC = () => {
       <ul>
         <li>Makro ve Mikro Ekonomik Veriler: Ekonomik göstergeler ve sektörel analizler.</li>
         <li>Opsiyon Verileri: Opsiyon hareketlerini izleyerek stratejik kararlar alın.</li>
-        <li>Fon Verileri: Yatırım fonlarının performansını analiz edin.</li>
+        <li>ETF Verileri: ETF performansını analiz edin.</li>
         <li>İçeriden Alım-Satım Verileri: Piyasadaki stratejik fırsatları takip edin.</li>
       </ul>
 
