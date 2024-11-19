@@ -17,7 +17,7 @@ const PrivacyPolicyandAcikRizaBeyani: FC = () => {
         pazarlama ve tanıtım aktivitelerini tasarlamak, tarafıma sunulacak uygun ürün ve hizmetlerin belirlenmesine ve geliştirilmesine yönelik kredi, davranış
         skorlama, pazar araştırması, pazarlama amacıyla veri analitiği çalışmaları yapmak, müşteri memnuniyeti ve tecrübesine yönelik olarak çalışmalar yapmak
         amaçlarıyla 6698 sayılı Kişisel Verilerin Korunması Kanunu ve diğer ilgili mevzuata uygun olarak veri sorumlusu sıfatıyla Liman tarafından işlenmesine,
-        özel nitelikli kişisel verilerden olan yüz tanıma (Face ID) verisi haricinde kalan genel nitelikli kişisel verilerimin kişisel verilerimin sadece Liman'da saklanılacağına
+        özel nitelikli kişisel verilerden olan yüz tanıma (Face ID) verisi haricinde kalan genel nitelikli kişisel verilerimin kişisel verilerimin sadece Limanda saklanılacağına
         ve 3. parti veya herhangi bir şirket ile paylaşılmayacağını taahhüt ederiz.
       </p>
 
@@ -36,8 +36,8 @@ const PrivacyPolicyandAcikRizaBeyani: FC = () => {
 
       <h2>Yunus Cebeci (&ldquo;Liman&rdquo;) PAZARLAMA &amp; ELEKTRONİK İLETİ İZNİ - MARKETING &amp; ELECTRONIC COMMUNICATION CONSENT</h2>
 
-      <p>Vermiş olduğunuz izin aşağıda "Elektronik İletişim İzni Alınan Şahıslar" başlığı altında belirtilen tüm şahısların her biri adına elektronik
-        ileti gönderilmesini (Elektronik İletişim İzni) ve aşağıda "Veri İşleme İzni Alınan Şirketler" başlığı altında belirtilen şirketler adına kişisel
+      <p>Vermiş olduğunuz izin aşağıda Elektronik İletişim İzni Alınan Şahıslar başlığı altında belirtilen tüm şahısların her biri adına elektronik
+        ileti gönderilmesini Elektronik İletişim İzni ve aşağıda Veri İşleme İzni Alınan Şahıslar başlığı altında belirtilen şahıslar adına kişisel
         verilerinizin işlenip paylaşılmasını (Veri İşleme İzni) kapsamaktadır. İletişim bilgileriniz dışındaki kişisel verilerinizin beyan formunda belirtilen
         amaçlarla kullanılmasını istemiyorsanız, info@liman.finance üzerinden bize mail ile bilgilerimin silinmesini talep ediyorum mesajı gönderebilirsiniz bu koşulda
         uygulamaya giriş yaptığınız kullanıcı hesabının bütün bilgilerinin silineceğini taahhüt ederiz.
