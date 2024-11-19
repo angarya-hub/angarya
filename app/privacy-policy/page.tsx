@@ -4,9 +4,9 @@ const PrivacyPolicyandAcikRizaBeyani: FC = () => {
   return (
     <div style={{ padding: '20px', maxWidth: '800px', margin: '0 auto', lineHeight: '1.6' }}>
       <h1>Açık Rıza Beyanı/PrivacyPolicy</h1>
-      <p><strong>Yunus Cebeci (“Liman”) AÇIK RIZA BEYANI/PrivacyPolicy</strong></p>
+      <p><strong>Yunus Cebeci (&ldquo;Liman&rdquo;) AÇIK RIZA BEYANI/PrivacyPolicy</strong></p>
 
-      <p>6698 sayılı Kişisel Verilerin Korunması Kanunu gereğince, kişisel verilerimin Yunus Cebeci (“Liman”) tarafından,
+      <p>6698 sayılı Kişisel Verilerin Korunması Kanunu gereğince, kişisel verilerimin Yunus Cebeci (&ldquo;Liman&rdquo;) tarafından,
         hangi amaçla işleneceği, işlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği, kişisel veri toplamanın yöntemi ve hukuki sebebi ve
         Kanun’un 11. maddesinde sayılan diğer haklarım hususlarında tarafıma sunulan “KİŞİSEL VERİLERİN İŞLENMESİNE İLİŞKİN KULLANICI AYDINLATMA METNİ”
         kapsamında; kimlik, iletişim, dijital iz, finans, pazarlama ve müşteri işlem kategorilerindeki kişisel verilerimin ve özel nitelikli kişisel verilerden
@@ -22,7 +22,7 @@ const PrivacyPolicyandAcikRizaBeyani: FC = () => {
       </p>
 
       <p>In accordance with the Personal Data Protection Law No. 6698, I am hereby informed about how my personal data will be processed by Yunus Cebeci 
-        (“Liman”), the purposes of processing, to whom and for what purposes my personal data may be transferred, the method and legal basis of data collection, and my rights as stated in Article 11 of the Law, through the “USER INFORMATION TEXT ON THE PROCESSING OF PERSONAL DATA” provided to me.
+        (&ldquo;Liman&rdquo;), the purposes of processing, to whom and for what purposes my personal data may be transferred, the method and legal basis of data collection, and my rights as stated in Article 11 of the Law, through the “USER INFORMATION TEXT ON THE PROCESSING OF PERSONAL DATA” provided to me.
         In this context, my personal data, including identity, contact, digital trace, financial, marketing, and customer transaction data, and sensitive personal data, such as facial recognition data, will be processed by Liman for the purposes of carrying out activities to ensure the best use of products and services
         offered by Liman, conducting identity verification through video calls, performing biometric comparison of my facial image and identity document, marketing 
         the products and services, planning and conducting marketing, promotion, and communication activities, offering proposals through all channels including digital
