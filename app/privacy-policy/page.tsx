@@ -34,7 +34,7 @@ const PrivacyPolicyandAcikRizaBeyani: FC = () => {
         sensitive personal data related to facial recognition (Face ID). We guarantee that your data will be stored by Liman and will not be shared with any third party or company.
       </p>
 
-      <h2>Yunus Cebeci (“Liman”) PAZARLAMA & ELEKTRONİK İLETİ İZNİ - MARKETING & ELECTRONIC COMMUNICATION CONSENT</h2>
+      <h2>Yunus Cebeci (&ldquo;Liman&rdquo;) PAZARLAMA &amp; ELEKTRONİK İLETİ İZNİ - MARKETING &amp; ELECTRONIC COMMUNICATION CONSENT</h2>
 
       <p>Vermiş olduğunuz izin aşağıda "Elektronik İletişim İzni Alınan Şahıslar" başlığı altında belirtilen tüm şahısların her biri adına elektronik
         ileti gönderilmesini (Elektronik İletişim İzni) ve aşağıda "Veri İşleme İzni Alınan Şirketler" başlığı altında belirtilen şirketler adına kişisel
