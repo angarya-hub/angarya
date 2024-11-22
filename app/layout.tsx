@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hisse ve ETF Yapay Zeka Analizi  ",
-  description: "Veriye dayalı yatırım kararları",
+  title: "Profesyonel Sanal Asistanınız",
+  description: "Online Angarya İşleriniz Bize Emanet",
 };
 
 export default function RootLayout({
