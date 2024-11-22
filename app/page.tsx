@@ -5,8 +5,8 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Amerikan ETF, Borsa İstanbul ve küresel makro ekonomi analizi için geliştirildi &nbsp;
-          <code className="font-mono font-bold">Yapay Zeka Destekli Yatırım Analitiği</code>
+          Zamanınız kıymetli! İş yükünüzü hafifletmek ve hayatınızı kolaylaştırmak ister misiniz? &nbsp;
+          <code className="font-mono font-bold">Profesyonel Sanal Asistanınız</code>
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
@@ -47,13 +47,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Beta sürümüne erişim talebi gönder {" "}
+            Online Randevu  {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-           Form doldurun, (Davet Sınırlı Sayıda ).
+           İsteklerinizi Anlayalım-Çözüm Üretelim
           </p>
         </a>
 
@@ -64,13 +64,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Atıştırmalık yazılarımızı okuyun{" "}
+            Neden Sanal Asistan{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Finansal bakış açımızı öğrenin.
+            Daha Fazlasını Öğrenmek İçin Makalelerimizi Okuyun
           </p>
         </a>
 
@@ -81,13 +81,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Eğlenceli ve sıkıcı finansal videolar{" "}
+            Taleplerinizi Form ile Gönderin {" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Hap bilgiler ve Finansal röportajlarımızı izleyin.
+            Size Özel Teklif Oluşturalım!
           </p>
         </a>
 
@@ -98,13 +98,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Premium paket için iletişime geç-{" "}
+            Paketler ve Daha Fazlası için{" "} 
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Yatırım analitğinde daha fazla özellik!
+            Mail Adresimiz: asistan@angarya.online
           </p>
         </a>
       </div>
